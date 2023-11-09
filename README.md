@@ -1,7 +1,5 @@
-Here is an updated README.md profile for you based on your CV:
-
 # Ammar Khairi
-
+![Header](https://github.com/ammarnasr/ammarnasr/blob/main/header.gif)
 ## Machine Learning Engineer | NLP & Computer Vision
 
 I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Geospatial applications. I enjoy solving complex problems involving large datasets.
