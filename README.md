@@ -21,7 +21,6 @@ I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Geospa
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-482FF7?style=flat&logo=huggingface&logoColor=white)
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-E4BC34?style=flat&logo=arcgis&logoColor=white) 
 ![PostGIS](https://img.shields.io/badge/-PostGIS-8DD252?style=flat&logo=postgis&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-843B62?style=flat&logo=geopandas&logoColor=white)
