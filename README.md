@@ -1,34 +1,24 @@
-# Ammar Khairi
-## Machine Learning Engineer | NLP & Computer Vision
+# Ammar Khairi  
+## Machine Learning Engineer | NLP Specialist | Efficiency
 
-I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Geospatial applications. I enjoy solving complex problems involving large datasets.
+I am a Machine Learning Engineer specializing in NLP research, with a particular focus on developing efficient models for resource-constrained environments and applied sciences.
 
-### Connect with me:
+### Current Focus
+- 🧠 Applying foundational models for patient trajectory forecasting in computational pathology.  
+- 🏙️ Surveying ML and NLP algorithms for urban and geospatial research.  
+- 🔬 Investigating synthetic data generation methods for efficient LLM training.
 
-[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=Github&logoColor=white)](https://ammarkhairi97.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammarkhairi97/)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammarkhairi97/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ammarnasraza@gmail.com)
 
-### Skills:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-482FF7?style=flat&logo=huggingface&logoColor=white)  
+![NLP](https://img.shields.io/badge/-NLP-4EAA25?style=flat&logo=natural-language-processing&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-482FF7?style=flat&logo=huggingface&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-E4BC34?style=flat&logo=arcgis&logoColor=white) 
-![PostGIS](https://img.shields.io/badge/-PostGIS-8DD252?style=flat&logo=postgis&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/-GeoPandas-843B62?style=flat&logo=geopandas&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-176BEF?style=flat&logo=google-earth-engine&logoColor=white)
-
-### Highlights:
-
-- 🔭 I’m currently researching and experimenting with LLMs for Computional Scoial Science !
-- 🎓 M.Sc. in Artificial Intelligence from University of Edinburgh
-- 🏆 Published and presented research at NeurIPS Black in AI Workshop
-- 💻 Open-sourced LLM fine-tuning code and models on HuggingFace
